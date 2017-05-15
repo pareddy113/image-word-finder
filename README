@@ -1,3 +1,7 @@
+Most of the documents, images, newspaper we see are paper based, and it’s always frustrating to search through thousands of words in an image or book or paper for a word. Wouldn’t it be great if we can search through them and find the locations of all the occurrences of the word in the image? How about if we can check if the detected works in the image/ new paper are further processed to be accurate? How does spell check and correction of the output sound? 
+
+This project targets and features all the above stated problems. It takes an image as an input, process the image and detects the text in the image based on super powerful Tesseract OCR engine, then does the spell check and correction to further corroborate the consistency in the output detected. The spell check and correction is based on Peter Norvik’s Algorithm which is easy but has an accuracy of 90% and can process around 10 words a second. And you can input the words that you want to search, it searches through the entire image and not only gives the if the word is present but also the exact location of occurrences of all the words which will make your life easy.
+
 Pre-requisites:
 Python 3.5
 OpenCV for Python3
