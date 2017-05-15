@@ -19,5 +19,7 @@ Keep the download folder in any folder. Run the following command from the folde
 spell.py —> Used for spell check and correction using Peter Norvig's Algorithm
 corpus.txt —> most used words for spell check and correction
 
-you can interact with the program and search the word. The search image is 4.png by default, you can change it to your required image.eou can interact with the program and search the word. The search image is 4.png by default, you can change it to your required image.}
+Peter Norvig's Algorithm: http://norvig.com/spell-correct.html
+
+you can interact with the program and search the word. The search image is 4.png by default, you can change it to your required image.eou can interact with the program and search the word. The search image is 4.png by default, you can change it to your required image.
 
