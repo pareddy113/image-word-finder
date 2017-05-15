@@ -1,0 +1,23 @@
+Pre-requisites:
+Python 3.5
+OpenCV for Python3
+Numpy
+Pillow 3.x
+Tesseract & pytesseract
+
+Packages Installation commands for Mac OSX: 
+pip3 install opencv-python → lib for Python 3.x
+pip3 install opencv-contrib-python
+pip3 install pillow → PIL for Python 3.x, dependency for tesseract OCR
+brew install tesseract → OCR engine
+pip3 install pytesseract → Python 3.x wrapper around tesseract OCR
+
+Run the program:
+Keep the download folder in any folder. Run the following command from the folder:
+				python3 main.py
+
+spell.py —> Used for spell check and correction using Peter Norvig's Algorithm
+corpus.txt —> most used words for spell check and correction
+
+you can interact with the program and search the word. The search image is 4.png by default, you can change it to your required image.eou can interact with the program and search the word. The search image is 4.png by default, you can change it to your required image.}
+
